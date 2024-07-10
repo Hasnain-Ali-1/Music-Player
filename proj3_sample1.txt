@@ -1,0 +1,668 @@
+Welcome to UMBC Music Player
+Songs loaded: 1200
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+1
+Which year would you like to display? (2010-2021)
+Which year would you like to display? (2010-2021)
+Which year would you like to display? (2010-2021)
+2010
+******2010*****
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "Need You Now" by Lady Antebellum 2/100 from 2010
+3. "Hey, Soul Sister" by Train 3/100 from 2010
+4. "California Gurls" by Katy Perry featuring Snoop Dogg 4/100 from 2010
+5. "OMG" by Usher featuring will.i.am 5/100 from 2010
+6. "Airplanes" by B.o.B featuring Hayley Williams 6/100 from 2010
+7. "Love the Way You Lie" by Eminem featuring Rihanna 7/100 from 2010
+8. "Bad Romance" by Lady Gaga 8/100 from 2010
+9. "Dynamite" by Taio Cruz 9/100 from 2010
+10. "Break Your Heart" by Taio Cruz featuring Ludacris 10/100 from 2010
+11. "Nothin' on You" by B.o.B featuring Bruno Mars 11/100 from 2010
+12. "I Like It" by Enrique Iglesias featuring Pitbull 12/100 from 2010
+13. "BedRock" by Young Money featuring Lloyd 13/100 from 2010
+14. "In My Head" by Jason Derulo 14/100 from 2010
+15. "Rude Boy" by Rihanna 15/100 from 2010
+16. "Telephone" by Lady Gaga featuring Beyonce 16/100 from 2010
+17. "Teenage Dream" by Katy Perry 17/100 from 2010
+18. "Just the Way You Are" by Bruno Mars 18/100 from 2010
+19. "Cooler Than Me" by Mike Posner 19/100 from 2010
+20. "Imma Be" by The Black Eyed Peas 20/100 from 2010
+21. "Empire State of Mind" by Jay-Z featuring Alicia Keys 21/100 from 2010
+22. "DJ Got Us Fallin' in Love" by Usher featuring Pitbull 22/100 from 2010
+23. "Billionaire" by Travie McCoy featuring Bruno Mars 23/100 from 2010
+24. "Not Afraid" by Eminem 24/100 from 2010
+25. "Replay" by Iyaz 25/100 from 2010
+26. "Sexy Bitch" by David Guetta featuring Akon 26/100 from 2010
+27. "Breakeven" by The Script 27/100 from 2010
+28. "Your Love Is My Drug" by Kesha 28/100 from 2010
+29. "I Gotta Feeling" by The Black Eyed Peas 29/100 from 2010
+30. "Fireflies" by Owl City 30/100 from 2010
+31. "Say Aah" by Trey Songz featuring Fabolous 31/100 from 2010
+32. "Find Your Love" by Drake 32/100 from 2010
+33. "Alejandro" by Lady Gaga 33/100 from 2010
+34. "Ridin' Solo" by Jason Derulo 34/100 from 2010
+35. "Just a Dream" by Nelly 35/100 from 2010
+36. "How Low" by Ludacris 36/100 from 2010
+37. "Like a G6" by Far East Movement featuring The Cataracs and Dev 37/100 from 2010
+38. "Carry Out" by Timbaland featuring Justin Timberlake 38/100 from 2010
+39. "Haven't Met You Yet" by Michael Buble 39/100 from 2010
+40. "Club Can't Handle Me" by Flo Rida featuring David Guetta 40/100 from 2010
+41. "Down" by Jay Sean featuring Lil Wayne 41/100 from 2010
+42. "Bulletproof" by La Roux 42/100 from 2010
+43. "Whatcha Say" by Jason Derulo 43/100 from 2010
+44. "Baby" by Justin Bieber featuring Ludacris 44/100 from 2010
+45. "Whataya Want from Me" by Adam Lambert 45/100 from 2010
+46. "Mine" by Taylor Swift 46/100 from 2010
+47. "Only Girl (In the World)" by Rihanna 47/100 from 2010
+48. "Live Like We're Dying" by Kris Allen 48/100 from 2010
+49. "Hard" by Rihanna featuring Jeezy 49/100 from 2010
+50. "Young Forever" by Jay-Z featuring Mr Hudson 50/100 from 2010
+51. "Blah Blah Blah" by Kesha featuring 3OH!3 51/100 from 2010
+52. "Bottoms Up" by Trey Songz featuring Nicki Minaj 52/100 from 2010
+53. "Do You Remember" by Jay Sean featuring Sean Paul and Lil Jon 53/100 from 2010
+54. "All the Right Moves" by OneRepublic 54/100 from 2010
+55. "According to You" by Orianthi 55/100 from 2010
+56. "My Chick Bad" by Ludacris featuring Nicki Minaj 56/100 from 2010
+57. "You Belong with Me" by Taylor Swift 57/100 from 2010
+58. "Meet Me Halfway" by The Black Eyed Peas 58/100 from 2010
+59. "Take It Off" by Kesha 59/100 from 2010
+60. "Over" by Drake 60/100 from 2010
+61. "Animal" by Neon Trees 61/100 from 2010
+62. "Misery" by Maroon 5 62/100 from 2010
+63. "Magic" by B.o.B featuring Rivers Cuomo 63/100 from 2010
+64. "Paparazzi" by Lady Gaga 64/100 from 2010
+65. "Tie Me Down" by New Boyz featuring Ray J 65/100 from 2010
+66. "Your Love" by Nicki Minaj 66/100 from 2010
+67. "Party in the U.S.A." by Miley Cyrus 67/100 from 2010
+68. "Deuces" by Chris Brown featuring Tyga and Kevin McCall 68/100 from 2010
+69. "3" by Britney Spears 69/100 from 2010
+70. "Impossible" by Shontelle 70/100 from 2010
+71. "Forever" by Drake featuring Kanye West, Lil Wayne and Eminem 71/100 from 2010
+72. "Two Is Better Than One" by Boys Like Girls featuring Taylor Swift 72/100 from 2010
+73. "My First Kiss" by 3OH!3 featuring Kesha 73/100 from 2010
+74. "Already Gone" by Kelly Clarkson 74/100 from 2010
+75. "Rock That Body" by The Black Eyed Peas 75/100 from 2010
+76. "Secrets" by OneRepublic 76/100 from 2010
+77. "Naturally" by Selena Gomez & the Scene 77/100 from 2010
+78. "Un-Thinkable (I'm Ready)" by Alicia Keys 78/100 from 2010
+79. "All I Do Is Win" by DJ Khaled featuring T-Pain, Ludacris, Snoop Dogg and Rick Ross 79/100 from 2010
+80. "I Made It (Cash Money Heroes)" by Kevin Rudolf featuring Birdman, Jay Sean and Lil Wayne 80/100 from 2010
+81. "Stuck Like Glue" by Sugarland 81/100 from 2010
+82. "Hey Daddy (Daddy's Home)" by Usher featuring Plies 82/100 from 2010
+83. "There Goes My Baby" by Usher 83/100 from 2010
+84. "Today Was a Fairytale" by Taylor Swift 84/100 from 2010
+85. "Say Something" by Timbaland featuring Drake 85/100 from 2010
+86. "Sweet Dreams" by Beyonce 86/100 from 2010
+87. "Use Somebody" by Kings of Leon 87/100 from 2010
+88. "Undo It" by Carrie Underwood 88/100 from 2010
+89. "Eenie Meenie" by Sean Kingston and Justin Bieber 89/100 from 2010
+90. "Right Above It" by Lil Wayne featuring Drake 90/100 from 2010
+91. "The House That Built Me" by Miranda Lambert 91/100 from 2010
+92. "If I Die Young" by The Band Perry 92/100 from 2010
+93. "The Only Exception" by Paramore 93/100 from 2010
+94. "American Honey" by Lady Antebellum 94/100 from 2010
+95. "King of Anything" by Sara Bareilles 95/100 from 2010
+96. "Life After You" by Daughtry 96/100 from 2010
+97. "Smile" by Uncle Kracker 97/100 from 2010
+98. "Teach Me How to Dougie" by Cali Swag District 98/100 from 2010
+99. "Try Sleeping with a Broken Heart" by Alicia Keys 99/100 from 2010
+100. "Lover, Lover" by Jerrod Niemann 100/100 from 2010
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+2
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (2010-2021)
+2011
+******2011*****
+101. "Rolling in the Deep" by Adele 1/100 from 2011
+102. "Party Rock Anthem" by LMFAO featuring Lauren Bennett and GoonRock 2/100 from 2011
+103. "Firework" by Katy Perry 3/100 from 2011
+104. "E.T." by Katy Perry featuring Kanye West 4/100 from 2011
+105. "Give Me Everything" by Pitbull featuring Ne-Yo, Afrojack and Nayer 5/100 from 2011
+106. "Grenade" by Bruno Mars 6/100 from 2011
+107. "F**K You (Forget You)" by CeeLo Green 7/100 from 2011
+108. "Super Bass" by Nicki Minaj 8/100 from 2011
+109. "Moves like Jagger" by Maroon 5 featuring Christina Aguilera 9/100 from 2011
+110. "Just Can't Get Enough" by The Black Eyed Peas 10/100 from 2011
+111. "On the Floor" by Jennifer Lopez featuring Pitbull 11/100 from 2011
+112. "S&M" by Rihanna 12/100 from 2011
+113. "Pumped Up Kicks" by Foster the People 13/100 from 2011
+114. "Last Friday Night (T.G.I.F.)" by Katy Perry 14/100 from 2011
+115. "Just the Way You Are" by Bruno Mars 15/100 from 2011
+116. "Tonight (I'm Lovin' You)" by Enrique Iglesias featuring Ludacris and DJ Frank E 16/100 from 2011
+117. "Raise Your Glass" by Pink 17/100 from 2011
+118. "Born This Way" by Lady Gaga 18/100 from 2011
+119. "F**kin' Perfect" by Pink 19/100 from 2011
+120. "What's My Name?" by Rihanna featuring Drake 20/100 from 2011
+121. "Look at Me Now" by Chris Brown featuring Lil Wayne and Busta Rhymes 21/100 from 2011
+122. "Down on Me" by Jeremih featuring 50 Cent 22/100 from 2011
+123. "How to Love" by Lil Wayne 23/100 from 2011
+124. "Someone Like You" by Adele 24/100 from 2011
+125. "Good Life" by OneRepublic 25/100 from 2011
+126. "The Lazy Song" by Bruno Mars 26/100 from 2011
+127. "Till the World Ends" by Britney Spears 27/100 from 2011
+128. "The Show Goes On" by Lupe Fiasco 28/100 from 2011
+129. "The Edge of Glory" by Lady Gaga 29/100 from 2011
+130. "We R Who We R" by Kesha 30/100 from 2011
+131. "Black and Yellow" by Wiz Khalifa 31/100 from 2011
+132. "Tonight Tonight" by Hot Chelle Rae 32/100 from 2011
+133. "Blow" by Kesha 33/100 from 2011
+134. "Lighters" by Bad Meets Evil featuring Bruno Mars 34/100 from 2011
+135. "If I Die Young" by The Band Perry 35/100 from 2011
+136. "Stereo Hearts" by Gym Class Heroes featuring Adam Levine 36/100 from 2011
+137. "The Time (Dirty Bit)" by The Black Eyed Peas 37/100 from 2011
+138. "Coming Home" by Diddy   Dirty Money featuring Skylar Grey 38/100 from 2011
+139. "Hey Baby (Drop It to the Floor)" by Pitbull featuring T-Pain 39/100 from 2011
+140. "Only Girl (In the World)" by Rihanna 40/100 from 2011
+141. "6 Foot 7 Foot" by Lil Wayne featuring Cory Gunz 41/100 from 2011
+142. "Just a Kiss" by Lady Antebellum 42/100 from 2011
+143. "Dirt Road Anthem" by Jason Aldean 43/100 from 2011
+144. "Dynamite" by Taio Cruz 44/100 from 2011
+145. "No Hands" by Waka Flocka Flame featuring Wale and Roscoe Dash 45/100 from 2011
+146. "I Wanna Go" by Britney Spears 46/100 from 2011
+147. "I'm on One" by DJ Khaled featuring Drake, Rick Ross and Lil Wayne 47/100 from 2011
+148. "You Make Me Feel..." by Cobra Starship featuring Sabi 48/100 from 2011
+149. "Yeah 3x" by Chris Brown 49/100 from 2011
+150. "Moment 4 Life" by Nicki Minaj featuring Drake 50/100 from 2011
+151. "I Need a Doctor" by Dr. Dre featuring Eminem and Skylar Grey 51/100 from 2011
+152. "Just a Dream" by Nelly 52/100 from 2011
+153. "Motivation" by Kelly Rowland featuring Lil Wayne 53/100 from 2011
+154. "Stereo Love" by Edward Maya featuring Vika Jigulina 54/100 from 2011
+155. "Jar of Hearts" by Christina Perri 55/100 from 2011
+156. "Roll Up" by Wiz Khalifa 56/100 from 2011
+157. "Sexy and I Know It" by LMFAO 57/100 from 2011
+158. "Rocketeer" by Far East Movement featuring Ryan Tedder 58/100 from 2011
+159. "All of the Lights" by Kanye West 59/100 from 2011
+160. "Hold It Against Me" by Britney Spears 60/100 from 2011
+161. "More" by Usher 61/100 from 2011
+162. "What the Hell" by Avril Lavigne 62/100 from 2011
+163. "Written in the Stars" by Tinie Tempah featuring Eric Turner 63/100 from 2011
+164. "Bottoms Up" by Trey Songz featuring Nicki Minaj 64/100 from 2011
+165. "DJ Got Us Fallin' in Love" by Usher featuring Pitbull 65/100 from 2011
+166. "For the First Time" by The Script 66/100 from 2011
+167. "Honey Bee" by Blake Shelton 67/100 from 2011
+168. "Don't You Wanna Stay" by Jason Aldean featuring Kelly Clarkson 68/100 from 2011
+169. "We Found Love" by Rihanna featuring Calvin Harris 69/100 from 2011
+170. "Pretty Girl Rock" by Keri Hilson 70/100 from 2011
+171. "Yo  and I" by Lady Gaga 71/100 from 2011
+172. "Like a G6" by Far East Movement featuring The Cataracs and Dev 72/100 from 2011
+173. "Without You" by David Guetta featuring Usher 73/100 from 2011
+174. "Back to December" by Taylor Swift 74/100 from 2011
+175. "Teenage Dream" by Katy Perry 75/100 from 2011
+176. "Crazy Girl" by Eli Young Band 76/100 from 2011
+177. "Cheers (Drink to That)" by Rihanna 77/100 from 2011
+178. "Who Says" by Selena Gomez & the Scene 78/100 from 2011
+179. "Barefoot Blue Jean Night" by Jake Owen 79/100 from 2011
+180. "Knee Deep" by Zac Brown Band featuring Jimmy Buffett 80/100 from 2011
+181. "Country Girl (Shake It for Me)" by Luke Bryan 81/100 from 2011
+182. "Remind Me" by Brad Paisley and Carrie Underwood 82/100 from 2011
+183. "In the Dark" by Dev 83/100 from 2011
+184. "Backseat" by New Boyz featuring The Cataracs and Dev 84/100 from 2011
+185. "Headlines" by Drake 85/100 from 2011
+186. "Best Thing I Never Had" by Beyonce 86/100 from 2011
+187. "Don't Wanna Go Home" by Jason Derulo 87/100 from 2011
+188. "Where Them Girls At" by David Guetta featuring Flo Rida and Nicki Minaj 88/100 from 2011
+189. "She Ain't You" by Chris Brown 89/100 from 2011
+190. "Take a Back Road" by Rodney Atkins 90/100 from 2011
+191. "Please Don't Go" by Mike Posner 91/100 from 2011
+192. "Sure Thing" by Miguel 92/100 from 2011
+193. "Price Tag" by Jessie J featuring B.o.B 93/100 from 2011
+194. "God Gave Me You" by Blake Shelton 94/100 from 2011
+195. "She Will" by Lil Wayne featuring Drake 95/100 from 2011
+196. "Are You Gonna Kiss Me or Not" by Thompson Square 96/100 from 2011
+197. "Animal" by Neon Trees 97/100 from 2011
+198. "You and Tequila" by Kenny Chesney featuring Grace Potter 98/100 from 2011
+199. "Colder Weather" by Zac Brown Band 99/100 from 2011
+200. "My Last" by Big Sean featuring Chris Brown 100/100 from 2011
+Enter the number of the song you would like to add:
+1
+Added: "Tik Tok" by Kesha 1/100 from 2010
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+2
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (2010-2021)
+2012
+******2012*****
+201. "Somebody That I Used to Know" by Gotye featuring Kimbra 1/100 from 2012
+202. "Call Me Maybe" by Carly Rae Jepsen 2/100 from 2012
+203. "We Are Young" by Fun featuring Janelle Mon e 3/100 from 2012
+204. "Payphone" by Maroon 5 featuring Wiz Khalifa 4/100 from 2012
+205. "Lights" by Ellie Goulding 5/100 from 2012
+206. "Glad You Came" by The Wanted 6/100 from 2012
+207. "Stronger (What Doesn't Kill You)" by Kelly Clarkson 7/100 from 2012
+208. "We Found Love" by Rihanna featuring Calvin Harris 8/100 from 2012
+209. "Starships" by Nicki Minaj 9/100 from 2012
+210. "What Makes You Beautiful" by One Direction 10/100 from 2012
+211. "Wild Ones" by Flo Rida featuring Sia 11/100 from 2012
+212. "Set Fire to the Rain" by Adele 12/100 from 2012
+213. "Sexy and I Know It" by LMFAO 13/100 from 2012
+214. "Some Nights" by Fun 14/100 from 2012
+215. "Wide Awake" by Katy Perry 15/100 from 2012
+216. "Good Feeling" by Flo Rida 16/100 from 2012
+217. "Whistle" by Flo Rida 17/100 from 2012
+218. "One More Night" by Maroon 5 18/100 from 2012
+219. "Drive By" by Train 19/100 from 2012
+220. "The Motto" by Drake featuring Lil Wayne 20/100 from 2012
+221. "Where Have You Been" by Rihanna 21/100 from 2012
+222. "Everybody Talks" by Neon Trees 22/100 from 2012
+223. "Take Care" by Drake featuring Rihanna 23/100 from 2012
+224. "Titanium" by David Guetta featuring Sia 24/100 from 2012
+225. "I Won't Give Up" by Jason Mraz 25/100 from 2012
+226. "It Will Rain" by Bruno Mars 26/100 from 2012
+227. "Mercy" by Kanye West, Big Sean, Pusha T and 2 Chainz 27/100 from 2012
+228. "Boyfriend" by Justin Bieber 28/100 from 2012
+229. "Party Rock Anthem" by LMFAO featuring Lauren Bennett and GoonRock 29/100 from 2012
+230. "Too Close" by Alex Clare 30/100 from 2012
+231. "Part of Me" by Katy Perry 31/100 from 2012
+232. "Young, Wild & Free" by Snoop Dogg and Wiz Khalifa featuring Bruno Mars 32/100 from 2012
+233. "We Are Never Ever Getting Back Together" by Taylor Swift 33/100 from 2012
+234. "As Long as You Love Me" by Justin Bieber featuring Big Sean 34/100 from 2012
+235. "Turn Me On" by David Guetta featuring Nicki Minaj 35/100 from 2012
+236. "Moves like Jagger" by Maroon 5 featuring Christina Aguilera 36/100 from 2012
+237. "Blow Me (One Last Kiss)" by Pink 37/100 from 2012
+238. "Good Time" by Owl City and Carly Rae Jepsen 38/100 from 2012
+239. "Give Your Heart a Break" by Demi Lovato 39/100 from 2012
+240. "Niggas in Paris" by Jay-Z and Kanye West 40/100 from 2012
+241. "The One That Got Away" by Katy Perry 41/100 from 2012
+242. "Feel So Close" by Calvin Harris 42/100 from 2012
+243. "Someone like You" by Adele 43/100 from 2012
+244. "Scream" by Usher 44/100 from 2012
+245. "Rack City" by Tyga 45/100 from 2012
+246. "Domino" by Jessie J 46/100 from 2012
+247. "Gangnam Style" by Psy 47/100 from 2012
+248. "International Love" by Pitbull featuring Chris Brown 48/100 from 2012
+249. "Home" by Phillip Phillips 49/100 from 2012
+250. "Without You" by David Guetta featuring Usher 50/100 from 2012
+251. "Ass Back Home" by Gym Class Heroes featuring Neon Hitch 51/100 from 2012
+252. "Wanted" by Hunter Hayes 52/100 from 2012
+253. "Drunk on You" by Luke Bryan 53/100 from 2012
+254. "No Lie" by 2 Chainz featuring Drake 54/100 from 2012
+255. "Want U Back" by Cher Lloyd 55/100 from 2012
+256. "Don't Wake Me Up" by Chris Brown 56/100 from 2012
+257. "Dance (A$$)" by Big Sean featuring Nicki Minaj 57/100 from 2012
+258. "Springsteen" by Eric Church 58/100 from 2012
+259. "Brokenhearted" by Karmin 59/100 from 2012
+260. "Not Over You" by Gavin DeGraw 60/100 from 2012
+261. "Stereo Hearts" by Gym Class Heroes featuring Adam Levine 61/100 from 2012
+262. "Back in Time" by Pitbull 62/100 from 2012
+263. "Work Out" by J. Cole 63/100 from 2012
+264. "Rumour Has It" by Adele 64/100 from 2012
+265. "Let's Go" by Calvin Harris featuring Ne-Yo 65/100 from 2012
+266. "Good Girl" by Carrie Underwood 66/100 from 2012
+267. "Pontoon" by Little Big Town 67/100 from 2012
+268. "Ho Hey" by The Lumineers 68/100 from 2012
+269. "Paradise" by Coldplay 69/100 from 2012
+270. "Blown Away" by Carrie Underwood 70/100 from 2012
+271. "Rolling in the Deep" by Adele 71/100 from 2012
+272. "Climax" by Usher 72/100 from 2012
+273. "Work Hard, Play Hard" by Wiz Khalifa 73/100 from 2012
+274. "Let Me Love You (Until You Learn to Love Yourself)" by Ne-Yo 74/100 from 2012
+275. "Pound the Alarm" by Nicki Minaj 75/100 from 2012
+276. "Come Over" by Kenny Chesney 76/100 from 2012
+277. "Heart Attack" by Trey Songz 77/100 from 2012
+278. "Drank in My Cup" by Kirko Bangz 78/100 from 2012
+279. "Birthday Cake" by Rihanna featuring Chris Brown 79/100 from 2012
+280. "So Good" by B.o.B 80/100 from 2012
+281. "50 Ways to Say Goodbye" by Train 81/100 from 2012
+282. "Red Solo Cup" by Toby Keith 82/100 from 2012
+283. "Love You like a Love Song" by Selena Gomez & the Scene 83/100 from 2012
+284. "Turn Up the Music" by Chris Brown 84/100 from 2012
+285. "Die Young" by Kesha 85/100 from 2012
+286. "5 O'Clock" by T-Pain featuring Wiz Khalifa and Lily Allen 86/100 from 2012
+287. "A Thousand Years" by Christina Perri 87/100 from 2012
+288. "Take a Little Ride" by Jason Aldean 88/100 from 2012
+289. "You da One" by Rihanna 89/100 from 2012
+290. "We Run the Night" by Havana Brown featuring Pitbull 90/100 from 2012
+291. "It's Time" by Imagine Dragons 91/100 from 2012
+292. "Cashin' Out" by Cash Out 92/100 from 2012
+293. "I Don't Want This Night to End" by Luke Bryan 93/100 from 2012
+294. "Diamonds" by Rihanna 94/100 from 2012
+295. "Hard to Love" by Lee Brice 95/100 from 2012
+296. "Somethin' 'Bout a Truck" by Kip Moore 96/100 from 2012
+297. "Adorn" by Miguel 97/100 from 2012
+298. "Fly Over States" by Jason Aldean 98/100 from 2012
+299. "Even If It Breaks Your Heart" by Eli Young Band 99/100 from 2012
+300. "Burn It Down" by Linkin Park 100/100 from 2012
+Enter the number of the song you would like to add:
+201
+Added: "Somebody That I Used to Know" by Gotye featuring Kimbra 1/100 from 2012
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+3
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "Somebody That I Used to Know" by Gotye featuring Kimbra 1/100 from 2012
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+4
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "Somebody That I Used to Know" by Gotye featuring Kimbra 1/100 from 2012
+Which song would you like to play?
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "Somebody That I Used to Know" by Gotye featuring Kimbra 1/100 from 2012
+Which song would you like to play?
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "Somebody That I Used to Know" by Gotye featuring Kimbra 1/100 from 2012
+Which song would you like to play?
+2
+Played: "Somebody That I Used to Know" by Gotye featuring Kimbra 1/100 from 2012
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+3
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+2
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (2010-2021)
+2018
+******2018*****
+801. "God's Plan" by Drake 1/100 from 2018
+802. "Perfect" by Ed Sheeran 2/100 from 2018
+803. "Meant to Be" by Bebe Rexha featuring Florida Georgia Line 3/100 from 2018
+804. "Havana" by Camila Cabello featuring Young Thug 4/100 from 2018
+805. "Rockstar" by Post Malone featuring 21 Savage 5/100 from 2018
+806. "Psycho" by Post Malone featuring Ty Dolla Sign 6/100 from 2018
+807. "I Like It" by Cardi B, Bad Bunny and J Balvin 7/100 from 2018
+808. "The Middle" by Zedd, Maren Morris and Grey 8/100 from 2018
+809. "In My Feelings" by Drake 9/100 from 2018
+810. "Girls Like You" by Maroon 5 featuring Cardi B 10/100 from 2018
+811. "Nice for What" by Drake 11/100 from 2018
+812. "Lucid Dreams" by Juice Wrld 12/100 from 2018
+813. "Better Now" by Post Malone 13/100 from 2018
+814. "Finesse" by Bruno Mars featuring Cardi B 14/100 from 2018
+815. "Boo'd Up" by Ella Mai 15/100 from 2018
+816. "New Rules" by Dua Lipa 16/100 from 2018
+817. "Sad!" by XXXTentacion 17/100 from 2018
+818. "Never Be the Same" by Camila Cabello 18/100 from 2018
+819. "Love Lies" by Khalid and Normani 19/100 from 2018
+820. "No Tears Left to Cry" by Ariana Grande 20/100 from 2018
+821. "Mine" by Bazzi 21/100 from 2018
+822. "Thunder" by Imagine Dragons 22/100 from 2018
+823. "Look Alive" by BlocBoy JB featuring Drake 23/100 from 2018
+824. "Delicate" by Taylor Swift 24/100 from 2018
+825. "Yes Indeed" by Lil Baby and Drake 25/100 from 2018
+826. "Friends" by Marshmello and Anne-Marie 26/100 from 2018
+827. "Bad at Love" by Halsey 27/100 from 2018
+828. "Taste" by Tyga featuring Offset 28/100 from 2018
+829. "Let You Down" by NF 29/100 from 2018
+830. "No Limit" by G-Eazy featuring ASAP Rocky and Cardi B 30/100 from 2018
+831. "Fefe" by 6ix9ine featuring Nicki Minaj and Murda Beatz 31/100 from 2018
+832. "Tequila" by Dan + Shay 32/100 from 2018
+833. "Feel It Still" by Portugal. The Man 33/100 from 2018
+834. "MotorSport" by Migos, Nicki Minaj and Cardi B 34/100 from 2018
+835. "I Like Me Better" by Lauv 35/100 from 2018
+836. "Youngblood" by 5 Seconds of Summer 36/100 from 2018
+837. "Whatever It Takes" by Imagine Dragons 37/100 from 2018
+838. "Ric Flair Drip" by Offset and Metro Boomin 38/100 from 2018
+839. "I Fall Apart" by Post Malone 39/100 from 2018
+840. "Pray for Me" by The Weeknd and Kendrick Lamar 40/100 from 2018
+841. "Back to You" by Selena Gomez 41/100 from 2018
+842. "Sicko Mode" by Travis Scott 42/100 from 2018
+843. "Walk It Talk It" by Migos featuring Drake 43/100 from 2018
+844. "Gucci Gang" by Lil Pump 44/100 from 2018
+845. "Him & I" by G-Eazy and Halsey 45/100 from 2018
+846. "In My Blood" by Shawn Mendes 46/100 from 2018
+847. "All the Stars" by Kendrick Lamar and SZA 47/100 from 2018
+848. "Stir Fry" by Migos 48/100 from 2018
+849. "Too Good at Goodbyes" by Sam Smith 49/100 from 2018
+850. "Love" by Kendrick Lamar featuring Zacari 50/100 from 2018
+851. "This Is America" by Childish Gambino 51/100 from 2018
+852. "Nonstop" by Drake 52/100 from 2018
+853. "Heaven" by Kane Brown 53/100 from 2018
+854. "Bodak Yellow" by Cardi B 54/100 from 2018
+855. "Freaky Friday" by Lil Dicky featuring Chris Brown 55/100 from 2018
+856. "Gummo" by 6ix9ine 56/100 from 2018
+857. "Plug Walk" by Rich the Kid 57/100 from 2018
+858. "Wait" by Maroon 5 58/100 from 2018
+859. "Be Careful" by Cardi B 59/100 from 2018
+860. "Wolves" by Selena Gomez and Marshmello 60/100 from 2018
+861. "Bartier Cardi" by Cardi B featuring 21 Savage 61/100 from 2018
+862. "God Is a Woman" by Ariana Grande 62/100 from 2018
+863. "Big Bank" by YG featuring 2 Chainz, Nicki Minaj and Big Sean 63/100 from 2018
+864. "Sorry Not Sorry" by Demi Lovato 64/100 from 2018
+865. "How Long" by Charlie Puth 65/100 from 2018
+866. "Lights Down Low" by Max featuring Gnash 66/100 from 2018
+867. "Young Dumb & Broke" by Khalid 67/100 from 2018
+868. "One Kiss" by Calvin Harris and Dua Lipa 68/100 from 2018
+869. "Natural" by Imagine Dragons 69/100 from 2018
+870. "You Make It Easy" by Jason Aldean 70/100 from 2018
+871. "Shape of You" by Ed Sheeran 71/100 from 2018
+872. "I Get the Bag" by Gucci Mane featuring Migos 72/100 from 2018
+873. "No Brainer" by DJ Khaled featuring Justin Bieber, Chance the Rapper and Quavo 73/100 from 2018
+874. "Plain Jane" by ASAP Ferg featuring Nicki Minaj 74/100 from 2018
+875. "Sky Walker" by Miguel featuring Travis Scott 75/100 from 2018
+876. "Marry Me" by Thomas Rhett 76/100 from 2018
+877. "Eastside" by Benny Blanco, Halsey and Khalid 77/100 from 2018
+878. "Call Out My Name" by The Weeknd 78/100 from 2018
+879. "King's Dead" by Jay Rock, Kendrick Lamar, Future and James Blake 79/100 from 2018
+880. "Happier" by Marshmello and Bastille 80/100 from 2018
+881. "Te Bote" by Nio Garc a, Darell and Casper M gico featuring Bad Bunny, Nicky Jam and Ozuna 81/100 from 2018
+882. "Simple" by Florida Georgia Line 82/100 from 2018
+883. "Lemon" by N.E.R.D and Rihanna 83/100 from 2018
+884. "1-800-273-8255" by Logic featuring Alessia Cara and Khalid 84/100 from 2018
+885. "Say Something" by Justin Timberlake featuring Chris Stapleton 85/100 from 2018
+886. "I'm Upset" by Drake 86/100 from 2018
+887. "Get Along" by Kenny Chesney 87/100 from 2018
+888. "Moonlight" by XXXTentacion 88/100 from 2018
+889. "What Lovers Do" by Maroon 5 featuring SZA 89/100 from 2018
+890. "X" by Nicky Jam and J Balvin 90/100 from 2018
+891. "Outside Today" by YoungBoy Never Broke Again 91/100 from 2018
+892. "Trip" by Ella Mai 92/100 from 2018
+893. "Dura" by Daddy Yankee 93/100 from 2018
+894. "Changes" by XXXTentacion 94/100 from 2018
+895. "Mercy" by Brett Young 95/100 from 2018
+896. "One Number Away" by Luke Combs 96/100 from 2018
+897. "Powerglide" by Rae Sremmurd featuring Juicy J 97/100 from 2018
+898. "IDGAF" by Dua Lipa 98/100 from 2018
+899. "Mi Gente" by J Balvin and Willy William featuring Beyonce 99/100 from 2018
+900. "Believer" by Imagine Dragons 100/100 from 2018
+Enter the number of the song you would like to add:
+801
+Added: "God's Plan" by Drake 1/100 from 2018
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+3
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "God's Plan" by Drake 1/100 from 2018
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+2
+Choose the songs you would like to add to the playlist.
+Which year would you like to display? (2010-2021)
+2016
+******2016*****
+601. "Love Yourself" by Justin Bieber 1/100 from 2016
+602. "Sorry" by Justin Bieber 2/100 from 2016
+603. "One Dance" by Drake featuring Wizkid and Kyla 3/100 from 2016
+604. "Work" by Rihanna featuring Drake 4/100 from 2016
+605. "Stressed Out" by Twenty One Pilots 5/100 from 2016
+606. "Panda" by Desiigner 6/100 from 2016
+607. "Hello" by Adele 7/100 from 2016
+608. "Don't Let Me Down" by The Chainsmokers featuring Daya 8/100 from 2016
+609. "Can't Stop the Feeling!" by Justin Timberlake 9/100 from 2016
+610. "Closer" by The Chainsmokers featuring Halsey 10/100 from 2016
+611. "Cheap Thrills" by Sia featuring Sean Paul 11/100 from 2016
+612. "7 Years" by Lukas Graham 12/100 from 2016
+613. "Needed Me" by Rihanna 13/100 from 2016
+614. "My House" by Flo Rida 14/100 from 2016
+615. "I Took a Pill in Ibiza" by Mike Posner 15/100 from 2016
+616. "Work from Home" by Fifth Harmony featuring Ty Dolla Sign 16/100 from 2016
+617. "This Is What You Came For" by Calvin Harris featuring Rihanna 17/100 from 2016
+618. "Cake by the Ocean" by DNCE 18/100 from 2016
+619. "Me, Myself & I" by G-Eazy and Bebe Rexha 19/100 from 2016
+620. "Ride" by Twenty One Pilots 20/100 from 2016
+621. "Heathens" by Twenty One Pilots 21/100 from 2016
+622. "Pillowtalk" by Zayn 22/100 from 2016
+623. "Stitches" by Shawn Mendes 23/100 from 2016
+624. "Hotline Bling" by Drake 24/100 from 2016
+625. "Cold Water" by Major Lazer featuring Justin Bieber and M  25/100 from 2016
+626. "Send My Love (To Your New Lover)" by Adele 26/100 from 2016
+627. "Roses" by The Chainsmokers featuring Rozes 27/100 from 2016
+628. "Treat You Better" by Shawn Mendes 28/100 from 2016
+629. "Too Good" by Drake featuring Rihanna 29/100 from 2016
+630. "Low Life" by Future featuring The Weeknd 30/100 from 2016
+631. "What Do You Mean?" by Justin Bieber 31/100 from 2016
+632. "The Hills" by The Weeknd 32/100 from 2016
+633. "Just Like Fire" by P!nk 33/100 from 2016
+634. "Broccoli" by DRAM featuring Lil Yachty 34/100 from 2016
+635. "Don't" by Bryson Tiller 35/100 from 2016
+636. "Dangerous Woman" by Ariana Grande 36/100 from 2016
+637. "Jumpman" by Drake and Future 37/100 from 2016
+638. "I Hate U, I Love U" by Gnash featuring Olivia O'Brien 38/100 from 2016
+639. "Here" by Alessia Cara 39/100 from 2016
+640. "Same Old Love" by Selena Gomez 40/100 from 2016
+641. "Controlla" by Drake 41/100 from 2016
+642. "Like I'm Gonna Lose You" by Meghan Trainor featuring John Legend 42/100 from 2016
+643. "One Call Away" by Charlie Puth 43/100 from 2016
+644. "Let It Go" by James Bay 44/100 from 2016
+645. "No" by Meghan Trainor 45/100 from 2016
+646. "Never Forget You" by Zara Larsson and MNEK 46/100 from 2016
+647. "Let Me Love You" by DJ Snake featuring Justin Bieber 47/100 from 2016
+648. "Don't Mind" by Kent Jones 48/100 from 2016
+649. "H.O.L.Y." by Florida Georgia Line 49/100 from 2016
+650. "We Don't Talk Anymore" by Charlie Puth featuring Selena Gomez 50/100 from 2016
+651. "Into You" by Ariana Grande 51/100 from 2016
+652. "Gold" by Kiiara 52/100 from 2016
+653. "Exchange" by Bryson Tiller 53/100 from 2016
+654. "679" by Fetty Wap featuring Remy Boyz 54/100 from 2016
+655. "Oui" by Jeremih 55/100 from 2016
+656. "Hands to Myself" by Selena Gomez 56/100 from 2016
+657. "2 Phones" by Kevin Gates 57/100 from 2016
+658. "Starboy" by The Weeknd featuring Daft Punk 58/100 from 2016
+659. "For Free" by DJ Khaled featuring Drake 59/100 from 2016
+660. "Never Be Like You" by Flume featuring Kai 60/100 from 2016
+661. "In the Night" by The Weeknd 61/100 from 2016
+662. "Me Too" by Meghan Trainor 62/100 from 2016
+663. "Ex's & Oh's" by Elle King 63/100 from 2016
+664. "Die a Happy Man" by Thomas Rhett 64/100 from 2016
+665. "White Iverson" by Post Malone 65/100 from 2016
+666. "Close" by Nick Jonas featuring Tove Lo 66/100 from 2016
+667. "Unsteady" by X Ambassadors 67/100 from 2016
+668. "Sucker for Pain" by Lil Wayne, Wiz Khalifa and Imagine Dragons with Logic and Ty Dolla Sign featuring X Ambassadors 68/100 from 2016
+669. "Down in the DM" by Yo Gotti featuring Nicki Minaj 69/100 from 2016
+670. "Luv" by Tory Lanez 70/100 from 2016
+671. "Sorry" by Beyonce 71/100 from 2016
+672. "Can't Feel My Face" by The Weeknd 72/100 from 2016
+673. "Hymn for the Weekend" by Coldplay 73/100 from 2016
+674. "Say It" by Tory Lanez 74/100 from 2016
+675. "Antidote" by Travis Scott 75/100 from 2016
+676. "Lost Boy" by Ruth B 76/100 from 2016
+677. "Side to Side" by Ariana Grande featuring Nicki Minaj 77/100 from 2016
+678. "Sit Still, Look Pretty" by Daya 78/100 from 2016
+679. "Wildest Dreams" by Taylor Swift 79/100 from 2016
+680. "Middle" by DJ Snake featuring Bipolar Sunshine 80/100 from 2016
+681. "On My Mind" by Ellie Goulding 81/100 from 2016
+682. "Pop Style" by Drake featuring Jay-Z and Kanye West[a] 82/100 from 2016
+683. "When We Were Young" by Adele 83/100 from 2016
+684. "Hide Away" by Daya 84/100 from 2016
+685. "Lean On" by Major Lazer and DJ Snake featuring M  85/100 from 2016
+686. "I Know What You Did Last Summer" by Shawn Mendes and Camila Cabello 86/100 from 2016
+687. "All the Way Up" by Fat Joe and Remy Ma featuring French Montana and Infared 87/100 from 2016
+688. "Watch Me" by Silent  88/100 from 2016
+689. "Back to Sleep" by Chris Brown 89/100 from 2016
+690. "No Limit" by Usher featuring Young Thug 90/100 from 2016
+691. "Cut It" by O.T. Genasis featuring Young Dolph 91/100 from 2016
+692. "Really Really" by Kevin Gates 92/100 from 2016
+693. "All In My Head (Flex)" by Fifth Harmony featuring Fetty Wap 93/100 from 2016
+694. "Starving" by Hailee Steinfeld and Grey featuring Zedd 94/100 from 2016
+695. "Adventure of a Lifetime" by Coldplay 95/100 from 2016
+696. "Humble and Kind" by Tim McGraw 96/100 from 2016
+697. "Wicked" by Future 97/100 from 2016
+698. "Tiimmy Turner" by Desiigner 98/100 from 2016
+699. "See You Again" by Wiz Khalifa featuring Charlie Puth 99/100 from 2016
+700. "Perfect" by One Direction 100/100 from 2016
+Enter the number of the song you would like to add:
+601
+Added: "Love Yourself" by Justin Bieber 1/100 from 2016
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+3
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "God's Plan" by Drake 1/100 from 2018
+3. "Love Yourself" by Justin Bieber 1/100 from 2016
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+4
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "God's Plan" by Drake 1/100 from 2018
+3. "Love Yourself" by Justin Bieber 1/100 from 2016
+Which song would you like to play?
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "God's Plan" by Drake 1/100 from 2018
+3. "Love Yourself" by Justin Bieber 1/100 from 2016
+Which song would you like to play?
+3
+Played: "Love Yourself" by Justin Bieber 1/100 from 2016
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+3
+Your Playlist
+1. "Tik Tok" by Kesha 1/100 from 2010
+2. "God's Plan" by Drake 1/100 from 2018
+What would you like to do?
+1. Display Songs by Year
+2. Add Song
+3. Display Playlist
+4. Play Song
+5. Quit
+5
+Thank you for using the UMBC Music Player
